@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+This is my website! I am a Junior at Mount Holyoke College majoring in Psychology and minoring in Statistics.
+
+```{r}
+1 + 1
+```
