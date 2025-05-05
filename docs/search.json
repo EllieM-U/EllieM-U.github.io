@@ -11,6 +11,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This is my website! I am a Junior at Mount Holyoke College majoring in Psychology and minoring in Statistics. This website is for Stat 244\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! My name is Ellie Modlin-Unger and I am a Junior at Mount Holyoke College majoring in Psychology and minoring in Statistics. I am interested in data analyses!\nTo contact me, please reach out via LinkedIn: www.linkedin.com/in/ellie-modlin-unger-29a309355"
+  },
+  {
+    "objectID": "Test.html",
+    "href": "Test.html",
+    "title": "Stat 244-SC",
+    "section": "",
+    "text": "The analysis project below is derived from survey data on 418 participants in different regions of the U.K.. They were asked about the weekday and weekend smoking habits, along with a variety of demographic factors. Two main analyses were conducted, cross validation and a LASSO model. Cross validation helps to depict the best type of model to use, especially by using the LOOCV. The first graph below will show a general overview of the amount of cigarettes smoked on the weekdays by region. Secondly, the next graph will show the graph for the best lambda predictor before the parsimonious model."
   }
 ]
