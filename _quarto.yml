@@ -9,8 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: Test.qmd
-        text: Test
+      - href: Stat-244-SC.qmd
+        text: Stat 244 SC
 
 format:
   html:
