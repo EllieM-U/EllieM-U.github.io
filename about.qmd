@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-This is my website! I am a Junior at Mount Holyoke College majoring in Psychology and minoring in Statistics. This website is for Stat 244
+Hi! My name is Ellie Modlin-Unger and I am a Junior at Mount Holyoke College majoring in Psychology and minoring in Statistics. I am interested in data analyses!
 
-```{r}
-1 + 1
-```
+To contact me, please reach out via LinkedIn: www.linkedin.com/in/ellie-modlin-unger-29a309355
+
+![](IMG_9772.JPG){width="374"}
