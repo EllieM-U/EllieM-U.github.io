@@ -4,6 +4,6 @@ title: "Stat 244-SC"
 
 The analysis project below is derived from survey data on 418 participants in different regions of the U.K.. They were asked about the weekday and weekend smoking habits, along with a variety of demographic factors. Two main analyses were conducted, cross validation and a LASSO model. Cross validation helps to depict the best type of model to use, especially by using the LOOCV. The first graph below will show a general overview of the amount of cigarettes smoked on the weekdays by region. Secondly, the next graph will show the graph for the best lambda predictor before the parsimonious model.
 
-![](Screenshot 2025-05-05 at 2.28.44 PM.png)
+![](Screenshot 2025-05-05 at 2.28.44 PM.jpeg){width="438"}
 
-![](Screenshot 2025-05-05 at 2.29.10 PM.png)
+![](Screenshot 2025-05-05 at 2.29.10 PM.jpeg){width="436"}
